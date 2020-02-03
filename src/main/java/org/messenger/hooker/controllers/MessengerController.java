@@ -7,6 +7,7 @@ import org.messenger.hooker.handler.ViberMessageProcessor;
 import org.messenger.hooker.handler.TelegramSenderHandler;
 import org.messenger.hooker.models.IncomingMessage;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -16,6 +17,7 @@ import javax.servlet.annotation.WebListener;
 @RestController
 @RequestMapping("api")
 @WebListener
+@Transactional
 public class MessengerController {
 
     @Autowired

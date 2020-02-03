@@ -33,8 +33,10 @@ public class IncomingMessage {
     private Sender sender;
     private String type;
 
-    @ManyToOne(fetch = FetchType.EAGER, cascade = {CascadeType.MERGE, CascadeType.PERSIST})
+    @ManyToOne(fetch = FetchType.EAGER, cascade = {CascadeType.ALL})
     private User user;
+
+
     private Boolean subscribed;
 
     @ManyToOne(fetch = FetchType.EAGER, cascade = {CascadeType.MERGE, CascadeType.PERSIST})
