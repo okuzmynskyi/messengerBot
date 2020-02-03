@@ -22,8 +22,7 @@ public class ViberSenderHandler {
     private String type;
     @Value("${viber.authtoken}")
     String authToken;
-    //"X-Viber-Auth-Token"
-    //
+
     @Autowired
     SendController sendController;
 

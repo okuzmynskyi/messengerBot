@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da442cd1-582b-4bdf-87bf-699285b1d100" name="Default Changelist" comment="add .idea folder to .gitignore file">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="176" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XI3fNmY4rcDcdUVCnwQIMmJmCK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite&#10;mysql" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="fa72cbbf-c785-4f67-9166-daeed0b74629" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.messenger.hooker.database" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="HookerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="messengerBot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.messenger.hooker.HookerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da442cd1-582b-4bdf-87bf-699285b1d100" name="Default Changelist" comment="" />
+      <created>1580719883122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580719883122</updated>
+      <workItem from="1580719886275" duration="18367000" />
+    </task>
+    <task id="LOCAL-00001" summary="add .idea folder to .gitignore file">
+      <created>1580722092306</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580722092306</updated>
+    </task>
+    <task id="LOCAL-00002" summary="substep commit for Andrey">
+      <created>1580731971197</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580731971197</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initz JPA for struct IncomingMessage">
+      <created>1580748325039</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580748325039</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="add .idea folder to .gitignore file" />
+    <MESSAGE value="substep commit for Andrey" />
+    <MESSAGE value="initz JPA for struct IncomingMessage" />
+    <option name="LAST_COMMIT_MESSAGE" value="initz JPA for struct IncomingMessage" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="65" key="#Assign_Data_Sources" timestamp="1580736821779">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="65" key="#Assign_Data_Sources/0.0.1280.800@0.0.1280.800" timestamp="1580736821779" />
+    <state x="256" y="60" key="#HookerApplication" timestamp="1580749419050">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="256" y="60" key="#HookerApplication/0.0.1280.800@0.0.1280.800" timestamp="1580749419050" />
+    <state x="240" y="65" key="#Notifications" timestamp="1580721819208">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="65" key="#Notifications/0.0.1280.800@0.0.1280.800" timestamp="1580721819208" />
+    <state x="118" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580724677064">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="118" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1580724677064" />
+    <state x="453" y="91" key="#com.intellij.ide.util.MemberChooser" timestamp="1580732736519">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="453" y="91" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1580732736519" />
+    <state x="254" y="96" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1580722875061">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="254" y="96" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.800@0.0.1280.800" timestamp="1580722875061" />
+    <state x="489" y="307" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580724717800">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="489" y="307" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.800@0.0.1280.800" timestamp="1580724717800" />
+    <state x="201" y="23" width="643" height="704" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog" timestamp="1580729948148">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="201" y="23" width="643" height="704" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog/0.0.1280.800@0.0.1280.800" timestamp="1580729948148" />
+    <state x="318" y="207" key="#com.intellij.jpa.generation.ui.ImportMappingsDialog" timestamp="1580729576204">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="318" y="207" key="#com.intellij.jpa.generation.ui.ImportMappingsDialog/0.0.1280.800@0.0.1280.800" timestamp="1580729576204" />
+    <state x="72" y="2" key="CommitChangelistDialog2" timestamp="1580748324721">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="72" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1580748324721" />
+    <state x="100" y="88" width="1080" height="682" key="DiffContextDialog" timestamp="1580731894322">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="100" y="88" width="1080" height="682" key="DiffContextDialog/0.0.1280.800@0.0.1280.800" timestamp="1580731894322" />
+    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/0.23.1280.704@0.23.1280.704" timestamp="1580720484491" />
+    <state width="1238" height="263" key="GridCell.Tab.0.bottom" timestamp="1580749433552">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1580749433552" />
+    <state width="1238" height="214" key="GridCell.Tab.0.bottom/0.23.1280.704@0.23.1280.704" timestamp="1580738752458" />
+    <state width="1238" height="263" key="GridCell.Tab.0.center" timestamp="1580749433550">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1580749433550" />
+    <state width="1238" height="214" key="GridCell.Tab.0.center/0.23.1280.704@0.23.1280.704" timestamp="1580738752453" />
+    <state width="1238" height="263" key="GridCell.Tab.0.left" timestamp="1580749433548">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1580749433548" />
+    <state width="1238" height="214" key="GridCell.Tab.0.left/0.23.1280.704@0.23.1280.704" timestamp="1580738752452" />
+    <state width="1238" height="263" key="GridCell.Tab.0.right" timestamp="1580749433551">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1580749433551" />
+    <state width="1238" height="214" key="GridCell.Tab.0.right/0.23.1280.704@0.23.1280.704" timestamp="1580738752457" />
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom" timestamp="1580749433556">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1580749433556" />
+    <state width="1238" height="214" key="GridCell.Tab.1.bottom/0.23.1280.704@0.23.1280.704" timestamp="1580738752462" />
+    <state width="1238" height="263" key="GridCell.Tab.1.center" timestamp="1580749433555">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1580749433555" />
+    <state width="1238" height="214" key="GridCell.Tab.1.center/0.23.1280.704@0.23.1280.704" timestamp="1580738752460" />
+    <state width="1238" height="263" key="GridCell.Tab.1.left" timestamp="1580749433554">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1580749433554" />
+    <state width="1238" height="214" key="GridCell.Tab.1.left/0.23.1280.704@0.23.1280.704" timestamp="1580738752459" />
+    <state width="1238" height="263" key="GridCell.Tab.1.right" timestamp="1580749433555">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1580749433555" />
+    <state width="1238" height="214" key="GridCell.Tab.1.right/0.23.1280.704@0.23.1280.704" timestamp="1580738752461" />
+    <state width="1238" height="263" key="GridCell.Tab.2.bottom" timestamp="1580749433560">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.2.bottom/0.0.1280.800@0.0.1280.800" timestamp="1580749433560" />
+    <state width="1238" height="263" key="GridCell.Tab.2.center" timestamp="1580749433558">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.2.center/0.0.1280.800@0.0.1280.800" timestamp="1580749433558" />
+    <state width="1238" height="263" key="GridCell.Tab.2.left" timestamp="1580749433557">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.2.left/0.0.1280.800@0.0.1280.800" timestamp="1580749433557" />
+    <state width="1238" height="263" key="GridCell.Tab.2.right" timestamp="1580749433559">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.2.right/0.0.1280.800@0.0.1280.800" timestamp="1580749433559" />
+    <state width="239" height="457" key="HiddenNamespacesPopup" timestamp="1580725081630">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="239" height="457" key="HiddenNamespacesPopup/0.0.1280.800@0.0.1280.800" timestamp="1580725081630" />
+    <state x="141" y="23" key="SettingsEditor" timestamp="1580721345413">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="141" y="23" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1580721345413" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1580748329379">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1580748329379" />
+    <state x="306" y="198" key="git4idea.merge.GitPullDialog" timestamp="1580721868986">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="306" y="198" key="git4idea.merge.GitPullDialog/0.0.1280.800@0.0.1280.800" timestamp="1580721868986" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/messengerBot$HookerApplication.ic" NAME="HookerApplication Coverage Results" MODIFIED="1580729443459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

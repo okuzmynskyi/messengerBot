@@ -1,8 +1,8 @@
 package org.messenger.hooker;
 
 import org.messenger.hooker.controllers.SendController;
-import org.messenger.hooker.handler.ViberMessageProcessor;
 import org.messenger.hooker.handler.TelegramSenderHandler;
+import org.messenger.hooker.handler.ViberMessageProcessor;
 import org.messenger.hooker.handler.ViberSenderHandler;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -13,12 +13,6 @@ import javax.servlet.annotation.WebListener;
 @Configuration
 @WebListener
 public class HookerContextConfiguration {
-    final String scopeType = "request";
-    private int count = 1;
-
-
-
-
 
     @Bean(name = "messageHandler")
     public ViberMessageProcessor getMessageHandler() {
