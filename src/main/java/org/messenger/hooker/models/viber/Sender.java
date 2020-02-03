@@ -5,9 +5,11 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
+import org.messenger.hooker.models.IncomingMessage;
 
 import javax.persistence.*;
-import java.util.Collection;
+import java.util.ArrayList;
+import java.util.List;
 
 @NoArgsConstructor
 @AllArgsConstructor
@@ -15,28 +17,34 @@ import java.util.Collection;
 @Setter
 @Entity
 public class Sender {
-    @Id
+
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @SerializedName("")
     private int id;
-    //@Value("${viber.sender.username}")
+
     public String getId() {
         return uuid;
     }
 
+    @Id
     @SerializedName("id")
     private String uuid;
+
     private String name;
-    //@Value("${viber.sender.avatar}")
     private String avatar;
     private String language;
     private String country;
     @SerializedName("api_version")
     private String apiVersion;
+
     public Sender(String name, String avatar) {
         this.name = name;
         this.avatar = avatar;
     }
+
+    @OneToMany(mappedBy = "sender")
+    private List<IncomingMessage> incomingMessageList = new ArrayList<>();
+
 
     @Override
     public String toString() {

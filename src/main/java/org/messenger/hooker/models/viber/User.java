@@ -1,16 +1,11 @@
 package org.messenger.hooker.models.viber;
 
 import com.google.gson.annotations.SerializedName;
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
-import org.hibernate.validator.constraints.UniqueElements;
+import lombok.*;
 import org.messenger.hooker.models.IncomingMessage;
 
 import javax.persistence.*;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.List;
 
 @Getter
@@ -18,13 +13,15 @@ import java.util.List;
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity
+@Data
+@EqualsAndHashCode(exclude = "incomingBooks")
 public class User {
-    @Id
+
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @SerializedName("")
     private int id;
 
-
+    @Id
     @SerializedName("id")
     private String uuid;
     private String name;
@@ -36,11 +33,10 @@ public class User {
     @OneToMany(mappedBy="user")
     private List<IncomingMessage> incomingMessageList = new ArrayList<>();
 
-
-
     public String getId() {
         return uuid;
     }
+
 
     @Override
     public String toString() {
@@ -54,3 +50,5 @@ public class User {
                 '}';
     }
 }
+
+
